@@ -1,0 +1,6 @@
+forum\alura\api\controladores\TopicosController.class
+forum\alura\api\services\CRUD.class
+forum\alura\api\repositorios\ITopicoRepositorio.class
+forum\alura\api\services\TopicoServiceImpl.class
+forum\alura\api\ApiApplication.class
+forum\alura\api\modelos\topicos.class
